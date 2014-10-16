@@ -1,0 +1,20 @@
+Well Welcome To SkyLegendsPe This Mod Has Three Scripts The Items.js Blocks.js And FunctionHandler.js Mods That I Will Include In SkyLegends-Alpha-0.0.2
+Item.js Will Include all the items in SkyLegends Blocks.js is All The Blocks And FuntionHandler.js Will Handle All Functions With IN The Mod.
+
+Planned Implemented Custom MODS:
+
+OreTouchCraft: 1% Done
+
+CrookCraft: 80% Done
+
+BarrelCraft 0% Done
+
+UltimateItemsCraft: 0% Done
+
+Force Craft: 0% Done
+
+Also More: I have open Slots for Developers Who Want To Get Into This Project
+
+Current Amount Of Slots: 5
+
+Beta Testers Are Welcome Too test our Mod If the mod crashes then check if the MOD IS COMPLETE! if You Have A Crash Open A New Issue
